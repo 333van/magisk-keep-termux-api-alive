@@ -3,4 +3,4 @@ name=Magisk Keep Termux API alive
 version=0.0.1
 versionCode=1
 author=333van
-description=A simple Magick module that sets some iptables rules at boot
+description=A simple Magick module that keeps com.termux.api alive
